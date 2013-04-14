@@ -1,3 +1,5 @@
 manuscript outline
 New manuscript. Here are some notes. 
 
+Another new line
+Added a sentence in my new branch
